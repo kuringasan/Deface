@@ -1,0 +1,77 @@
+body{
+background: url("http://www.drodd.com/images14/black15.jpg");
+z-index: -1;
+}
+
+
+
+.image{
+background: url("https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif");
+width: 100%;
+height: 100%;
+position: fixed;
+z-index: -1;
+-webkit-filter: blur(5px);
+}
+
+
+
+.container{
+margin-top: 15%;
+text-align: center;
+color: #04ff00;
+font-size: 30px;
+font-family: 'Russo One', sans-serif;
+text-align: center;
+text-shadow: #00d0ff 0 0 15px;
+
+}
+
+
+
+.butao{
+background-color: transparent;
+border: none;
+text-decoration: none;
+position: absolute;
+color: #ff0043;
+left: 1%;
+top: 2%;
+font-size: 30px;
+font-family: 'Yellowtail', cursive;
+text-shadow: #ff42cc 0 0 15px;
+}
+
+
+
+.butao:hover{
+background-color: transparent;
+border: none;
+color: #00d0ff;
+text-decoration: none;
+font-size: 32px;
+left: 0.5%;
+
+}
+
+
+
+.a{
+color: #ff0043;
+text-decoration: none;
+}
+
+
+
+.a:hover{
+color: #00d0ff;
+text-decoration: none;
+font-size: 34px;
+}
+
+
+
+.aa{
+color: #00d0ff;
+
+}
